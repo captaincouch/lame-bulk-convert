@@ -1,6 +1,6 @@
 #!/bin/bash
 # lame-bulk-convert
-# Written by Ryan Neef
+# Written by Captain Couch
 # Jan. 4 2022
 # Last Updated: Jan. 4 2022
 # Purpose: Bulk convert all audio files in a directory to 320kbps MP3 using
